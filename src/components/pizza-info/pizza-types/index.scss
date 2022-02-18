@@ -18,3 +18,67 @@
       }
     }
 }
+
+.ftco-section {
+  padding: 10px 0px !important;
+  width: 100% !important;
+}
+
+.menu-wrap .menu-img {
+  display: block;
+  width: 200px;
+  height: 200px;
+  margin: 0 auto;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  border-radius: 50%; 
+}
+.menu {
+  border: 1px solid #FAC564 !important;
+  // margin: 4px 4px !important;
+  padding: 4px 4px !important;
+}
+span.row.justify-content-between {
+  padding: 0px 14px !important;
+}
+/*------------------------------
+Pagination
+-------------------------------*/
+.pro-result {
+  margin-top: 30px;
+  align-items: center;
+}
+.pro-result .pagination-style:last-child {
+  text-align: right;
+}
+.pagination-style .pagination ul {
+  padding-left: 0;
+  margin-bottom: 0px;
+  display: flex;
+}
+.pagination-style .pagination ul li {
+  list-style-type: none;
+  display: inline-block;
+  margin-right: 5px;
+}
+.pagination-style .pagination ul li button {
+  color: #000;
+  float: left;
+  padding: 6px 12px;
+  text-decoration: none;
+  font-size: 16px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+.pagination-style .pagination ul li button.active,
+.pagination-style .pagination ul li button:hover {
+  background-color: #13b5ea;
+  border: 1px solid #13b5ea;
+  color: #fff !important;
+}
+
+.pagination-style .show-result p {
+  margin-bottom: 0px;
+  color: #bbb;
+}

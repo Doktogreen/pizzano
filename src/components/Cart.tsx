@@ -1,7 +1,7 @@
 import React from "react";
 import { AiOutlineShoppingCart } from "react-icons/ai";
 import CartCSS from "./Cart.module.css";
-import { AppStateContext } from "./AppState";
+import { AppStateContext } from "./ComponentState";
 
 interface Props {}
 

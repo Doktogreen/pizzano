@@ -21,10 +21,13 @@
 }
 
 .card-header {
-    padding: .75rem 1.25rem;
+    padding: 0rem 0rem;
     margin-bottom: 0;
     background-color: #f0f3f5;
     border-bottom: 1px solid #c8ced3
+}
+div.card-header {
+    padding: 0px 0px !important;
 }
 
 .card-body {
@@ -38,4 +41,7 @@
     border-color: #c8ced3 !important;
     outline: 0;
     box-shadow: 0 0 0 #F44336
+}
+strong, small {
+    color: #FAC564;
 }

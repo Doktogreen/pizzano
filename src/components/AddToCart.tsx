@@ -1,5 +1,5 @@
 import React from "react";
-import { CartItem, useStateDispatch } from "./AppState";
+import { CartItem, useStateDispatch } from "./ComponentState";
 
 export interface AddToCartProps {
   addToCart: (item: Omit<CartItem, "quantity">) => void;

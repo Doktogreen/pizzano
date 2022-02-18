@@ -101,7 +101,8 @@ export default function UserBio(){
                     </div>
                     <p style={{textAlign: "left", fontSize: "12px"}}>
                         By signing up, you agree to our <br />
-                        <a href="https://gokardinal.com/" target="_blank" rel="noreferrer">
+                        <a className="terms" href="https://gokardinal.com/" target="_blank" rel="noreferrer">
+                            <input type="radio" className="radio" />
                             Terms of Conditions and Privacy policy.
                         </a>
                     </p>

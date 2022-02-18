@@ -5,10 +5,8 @@ export default function UserCard(){
     return(
         <div className="row">
         <div className="col-sm-12">
-                <div className="card-header">
-                    <strong>Credit Card</strong>
-                    <small>enter your card details</small>
-                </div>
+                    <strong>Credit Card</strong><br />
+                    <small>Enter your card details</small>
                     <div className="row">
                         <div className="col-sm-12">
                             <div className="form-group">

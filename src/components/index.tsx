@@ -1,5 +1,5 @@
 import React from "react";
-import AppStateProvider from "./AppState";
+import AppStateProvider from "./ComponentState";
 import Footer from "./footer";
 import NavBar from "./nav-bar";
 import Pizzano from "./pizza-info";
@@ -9,8 +9,8 @@ export default function Landing(){
   return (
     <AppStateProvider>
         <NavBar />
-			<Pizzano />
-		<Footer/>
+			    <Pizzano />
+		    <Footer/>
 	</AppStateProvider>
     )
 }

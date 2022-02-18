@@ -1,21 +1,21 @@
 [{
     "id": 1,
     "name": "Napoletana Pizzano",
-    "picture":"../../public/assets/images/Nea-politan-pizza.jpg",
+    "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/Greek-pizza_ukaywb.webp",
     "description": "Fresh tomatoes and mozzarella cheese.",
     "price": 14.99
   },
   {
     "id": 2,
     "name": "Marinara Pizzano",
-    "picture":"../../public/assets/images/pizza-3.jpg",
+    "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116431/bg_2_hkbeer.png",
     "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
     "price": 9.99
   },
   {
     "id": 3,
     "name": "Caprese Pizzano",
-    "picture":"../../public/assets/images/pizza-2.jpg",
+    "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116426/st-Louise-pizza_lpgtyq.jpg",
     "description": "Fresh mozzarella, tomatoes, basil and balsamic vinegar.",
     "price": 10.99,
     "specialOffer": true
@@ -23,28 +23,28 @@
   {
     "id": 4,
     "name": "Margherita Pizzano",
-    "picture":"../../public/assets/images/pizza-4.jpg",
+    "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116425/pizza-4_hsmbhj.jpg",
     "description": "Fresh tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
     "price": 19.99
   },
   {
   "id": 5,
   "name": "Greek Pizzano",
-  "picture":"../../public/assets/images/Greek-pizza.webp",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/Greek-pizza_ukaywb.webp",
   "description": "Fresh tomatoes and mozzarella cheese.",
   "price": 29.99
 },
 {
   "id": 6,
   "name": "Chicago Pizzano",
-  "picture":"../../public/assets/images/carlifornia-pizza.jpg",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/Chikago-pizza_vgl7bo.jpg",
   "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
   "price": 9.99
 },
 {
   "id": 7,
   "name": "California Pizzano",
-  "picture":"../../public/assets/images/carlifornia-pizza.jpg",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/Nea-politan-pizza_cfaiup.jpg",
   "description": "Fresh mozzarella, tomatoes, basil and balsamic vinegar.",
   "price": 9.99,
   "specialOffer": true
@@ -52,35 +52,35 @@
 {
   "id": 8,
   "name": "Detroit Pizzano",
-  "picture":"../../public/assets/images/detroit-pizza.jpg",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/detroit-pizza_dpqrjb.jpg",
   "description": "Fresh tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
   "price": 19.99
 },
 {
   "id": 9,
   "name": "St-Louise Pizzano",
-  "picture":"../../public/assets/images/st-Louise-pizza.jpg",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116424/carlifornia-pizza_bgy9qr.jpg",
   "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
   "price": 29.99
 },
 {
   "id": 10,
   "name": "New York Pizzano",
-  "picture":"../../public/assets/images/New-york-pizza.webp",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116425/pizza-2_oiuwcu.jpg",
   "description": "Fresh tomatoes, mozzarella cheese, fresh basil, salt and extra-virgin olive oil.",
   "price": 19.99
 },
 {
   "id": 11,
   "name": "Silican Pizzano",
-  "picture":"../../public/assets/images/Silican-pizza.webp",
+  "picture":"https://res.cloudinary.com/skiltime/image/upload/v1645116425/pizza-1_enes1e.jpg",
   "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
   "price": 29.99
 },
 {
   "id": 12,
   "name": "Itallian Pizzano",
-  "imgUrl":"../../public/assets/images/Silican-pizza.webp",
+  "imgUrl":"./images/Silican-pizza.webp",
   "description": "Fresh tomatoes, extra virgin olive oil, oregano and garlic.",
   "price": 29.99
 }

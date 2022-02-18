@@ -4,3 +4,24 @@
 div.col-md-12.d-flex-align-items-center {
     width: 100% !important;
 }
+p {
+    color: #FAC564;
+}
+.form-control {
+    border-bottom: 1px solid #FAC564 !important;
+    border-radius: 10px !important;
+}
+input#form-control {
+    background-color: transparent !important;
+}
+.terms {
+    align-items: center !important;
+}
+.radio {
+    margin-right: 10px !important;
+    background-color: #FAC564 !important;
+    color: #FAC564 !important;
+}
+label {
+    color: #FAC564 !important;
+}

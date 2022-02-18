@@ -4,3 +4,15 @@ div.row.justify-content-between.mb-5.pb-3 {
 section.ftco-section {
     padding: 20px 0px !important;
 }
+.width {
+    width: 100% !important;
+}
+div.col-md-12.d-flex.align-items-center {
+    width: 100% !important;
+}
+.tab-content {
+    width: inherit !important;
+}
+.nav-pills {
+    padding: 50px 0px 10px 10px !important;
+}

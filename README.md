@@ -1,46 +1,23 @@
-# Getting Started with Create React App
+PIZZANO WEB APPLICATION.
+A place to order pizza with few button clicks.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+QUESTION 1: 
+a: Use of Visual Aides: That means that Product Requirements regularly need to be translated into something that’s better suited as a description of software functionality.
 
-## Available Scripts
+b: Keeping it up-to-date: Knowing your product is the single best thing you can do not only for the benefit of the product itself, but for the benefit of your dev team, and of other dev teams building the same thing.
 
-In the project directory, you can run:
+QUESTION2: My thought on testing the frontend is that Utility testing method can be used but since we are using typescripts it is less necessary.
 
-### `npm start`
+QUESTION3: Design pattern used is called Strategy design pattern.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+QUESTION4: Tyescripts is very annoying but awesome.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+QUESTION5: The important performance issues in Reactjs are as follows:
+Keeping component state local where necessary
+Memoizing React components to prevent unnecessary re-renders
+Code-splitting in React using dynamic import()
+Windowing or list virtualization in React
+Lazy loading images in React
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+QUESTION6: I used to draw out my designs before implementing, and integrating it.
+ 
